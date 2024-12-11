@@ -1,7 +1,7 @@
 {
   "name": "@wechatferryxxx/robot",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nuxt layers for wechatferry",
   "author": "mrrhq <sanhua@himrr.com>",
   "license": "MIT",
