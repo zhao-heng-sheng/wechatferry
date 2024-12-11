@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   compatibilityDate: '2024-08-22',
   alias: { '#sanhua-robot': resolve('./') },
-  modules: ['@wechatferry/nuxt'],
+  modules: ['@wechatferryxxx/nuxt'],
 })
 
 declare module 'nuxt/schema' {

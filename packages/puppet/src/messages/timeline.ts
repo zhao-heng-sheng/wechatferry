@@ -1,6 +1,6 @@
 import * as PUPPET from 'wechaty-puppet'
-import type { WechatferryAgentEventMessage } from '@wechatferry/agent'
-import { WechatMessageType } from '@wechatferry/core'
+import type { WechatferryAgentEventMessage } from '@wechatferryxxx/agent'
+import { WechatMessageType } from '@wechatferryxxx/core'
 import xml2js from 'xml2js'
 import { xmlToJson } from '../utils'
 

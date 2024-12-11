@@ -14,8 +14,8 @@
 
 ::: code-group
 ```ts twoslash [index.ts]
-import { createSafeModePuppet } from '@wechatferry/plugins'
-import { WechatferryPuppet } from '@wechatferry/puppet'
+import { createSafeModePuppet } from '@wechatferryxxx/plugins'
+import { WechatferryPuppet } from '@wechatferryxxx/puppet'
 const puppet = createSafeModePuppet(new WechatferryPuppet())
 ```
 :::

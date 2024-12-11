@@ -41,12 +41,12 @@ export default defineConfig({
       {
         text: 'API',
         items: [
-          { text: '@wechatferry/core', link: 'https://www.jsdocs.io/package/@wechatferry/core' },
-          { text: '@wechatferry/agent', link: 'https://www.jsdocs.io/package/@wechatferry/agent' },
-          { text: '@wechatferry/puppet', link: 'https://www.jsdocs.io/package/@wechatferry/puppet' },
-          { text: '@wechatferry/nuxt', link: 'https://www.jsdocs.io/package/@wechatferry/nuxt' },
-          { text: '@wechatferry/robot', link: 'https://www.jsdocs.io/package/@wechatferry/robot' },
-          { text: '@wechatferry/plugins', link: 'https://www.jsdocs.io/package/@wechatferry/plugins' },
+          { text: '@wechatferryxxx/core', link: 'https://www.jsdocs.io/package/@wechatferryxxx/core' },
+          { text: '@wechatferryxxx/agent', link: 'https://www.jsdocs.io/package/@wechatferryxxx/agent' },
+          { text: '@wechatferryxxx/puppet', link: 'https://www.jsdocs.io/package/@wechatferryxxx/puppet' },
+          { text: '@wechatferryxxx/nuxt', link: 'https://www.jsdocs.io/package/@wechatferryxxx/nuxt' },
+          { text: '@wechatferryxxx/robot', link: 'https://www.jsdocs.io/package/@wechatferryxxx/robot' },
+          { text: '@wechatferryxxx/plugins', link: 'https://www.jsdocs.io/package/@wechatferryxxx/plugins' },
         ],
       },
     ],

@@ -1,4 +1,4 @@
-import { WechatMessageType } from '@wechatferry/core'
+import { WechatMessageType } from '@wechatferryxxx/core'
 
 export function isRoomId(id?: string): boolean {
   return id?.endsWith('@chatroom') ?? false

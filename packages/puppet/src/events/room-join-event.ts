@@ -1,5 +1,5 @@
 import { setTimeout } from 'node:timers/promises'
-import type { WechatferryAgentEventMessage } from '@wechatferry/agent'
+import type { WechatferryAgentEventMessage } from '@wechatferryxxx/agent'
 import type * as PUPPET from 'wechaty-puppet'
 import { executeRunners, isRoomId, isRoomOps } from '../utils'
 import { parseTextWithRegexList } from '../utils/regex'

@@ -7,7 +7,7 @@
 ::: code-group
 ```ts twoslash [bot.ts]
 import { WechatyBuilder } from 'wechaty'
-import { wechatyPluginRoomKick } from '@wechatferry/plugins'
+import { wechatyPluginRoomKick } from '@wechatferryxxx/plugins'
 
 const bot = WechatyBuilder.build()
 bot

@@ -5,7 +5,7 @@ import type {
   Room,
   RoomMember,
 } from 'wechaty-puppet/payloads'
-import type { WechatferryAgent } from '@wechatferry/agent'
+import type { WechatferryAgent } from '@wechatferryxxx/agent'
 
 export interface PuppetRoom extends Room {
   announce: string

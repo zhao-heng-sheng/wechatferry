@@ -1,1 +1,1 @@
-export * from '@wechatferry/logger'
+export * from '@wechatferryxxx/logger'
