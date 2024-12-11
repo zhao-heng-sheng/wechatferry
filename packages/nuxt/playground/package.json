@@ -1,6 +1,6 @@
 {
   "name": "nuxt-wcferry-playground",
-  "type": "module",
+  
   "version": "1.0.2",
   "private": true,
   "scripts": {

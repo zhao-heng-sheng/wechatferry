@@ -1,6 +1,6 @@
 {
   "name": "@wechatferryxxx/core",
-  "type": "module",
+  
   "version": "1.0.2",
   "description": "A node impl of wcferry client",
   "author": "mrrhq <sanhua@himrr.com>",

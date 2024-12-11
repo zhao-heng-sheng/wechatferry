@@ -1,6 +1,6 @@
 {
   "name": "@wechatferryxxx/puppet",
-  "type": "module",
+  
   "version": "1.0.2",
   "description": "wcferry puppet for wechaty",
   "author": "mrrhq <sanhua@himrr.com>",

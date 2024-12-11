@@ -1,6 +1,6 @@
 {
   "name": "@wechatferryxxx/plugins",
-  "type": "module",
+  
   "version": "1.0.2",
   "description": "wechatferry plugins",
   "author": "mrrhq <sanhua@himrr.com>",

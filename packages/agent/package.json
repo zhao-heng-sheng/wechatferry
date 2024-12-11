@@ -1,6 +1,6 @@
 {
   "name": "@wechatferryxxx/agent",
-  "type": "module",
+  
   "version": "1.0.2",
   "description": "wcferry agent client",
   "author": "mrrhq <sanhua@himrr.com>",

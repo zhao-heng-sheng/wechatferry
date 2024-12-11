@@ -1,6 +1,6 @@
 {
   "name": "@wechatferryxxx/logger",
-  "type": "module",
+  
   "version": "1.0.2",
   "description": "wcferry logger",
   "author": "mrrhq <sanhua@himrr.com>",
