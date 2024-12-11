@@ -1,7 +1,7 @@
 {
   "name": "@wechatferryxxx/logger",
   "type": "module",
-  "version": "0.0.28",
+  "version": "0.0.29",
   "description": "wcferry logger",
   "author": "mrrhq <sanhua@himrr.com>",
   "license": "MIT",
