@@ -1,7 +1,7 @@
 {
   "name": "@wechatferryxxx/plugins",
   "type": "module",
-  "version": "0.0.30",
+  "version": "1.0.0",
   "description": "wechatferry plugins",
   "author": "mrrhq <sanhua@himrr.com>",
   "license": "MIT",
