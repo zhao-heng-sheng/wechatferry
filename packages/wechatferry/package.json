@@ -1,7 +1,7 @@
 {
   "name": "wechatferryxxx",
   "type": "module",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "description": "wechat robot framework based on wechatferry",
   "author": "mrrhq <sanhua@himrr.com>",
   "license": "MIT",
