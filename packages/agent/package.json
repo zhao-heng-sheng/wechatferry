@@ -1,7 +1,7 @@
 {
   "name": "@wechatferryxxx/agent",
   "type": "module",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "description": "wcferry agent client",
   "author": "mrrhq <sanhua@himrr.com>",
   "license": "MIT",
