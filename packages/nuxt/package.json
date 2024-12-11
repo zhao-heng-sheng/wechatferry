@@ -1,7 +1,7 @@
 {
-  "name": "@wechatferry/nuxt",
+  "name": "@wechatferryxxx/nuxt",
   "type": "module",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "description": "nuxt module for wechatferry",
   "author": "mrrhq <sanhua@himrr.com>",
   "license": "MIT",
@@ -44,8 +44,8 @@
   "dependencies": {
     "@nuxt/devtools-kit": "^1.3.14",
     "@nuxt/kit": "^3.13.0",
-    "@wechatferry/plugins": "workspace:*",
-    "@wechatferry/puppet": "workspace:*",
+    "@wechatferryxxx/plugins": "workspace:*",
+    "@wechatferryxxx/puppet": "workspace:*",
     "fast-glob": "^3.3.2",
     "pathe": "^1.1.2",
     "scule": "^1.3.0",
