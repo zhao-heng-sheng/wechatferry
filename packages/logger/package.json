@@ -1,7 +1,7 @@
 {
   "name": "@wechatferry/logger",
   "type": "module",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "wcferry logger",
   "author": "mrrhq <sanhua@himrr.com>",
   "license": "MIT",
@@ -21,7 +21,8 @@
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "import": "./dist/index.mjs"
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
     }
   },
   "main": "./dist/index.mjs",
